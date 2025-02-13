@@ -49,6 +49,7 @@ This project sets up a data lake for NBA data using AWS services such as S3, Glu
     ```
 
 ## Project Structure
+```python
 
 nba-data-lake/
 ├── src/                   # Source code for the project
@@ -58,6 +59,7 @@ nba-data-lake/
 ├── .gitignore             # Git ignore file to exclude certain files from version control
 ├── README.md              # Project description and setup instructions
 └── requirements.txt       # Python dependencies for the project
+```
 
 ## Additional Information
 - **AWS S3**: Used to store raw NBA data.
