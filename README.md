@@ -47,7 +47,11 @@ This project sets up a data lake for NBA data using AWS services such as S3, Glu
     ```bash
     python src/main.py
     ```
-
+3. Test the main script:
+    ```bash
+    python src/test.py
+    ```
+    
 ## Project Structure
 
 nba-data-lake/ 
