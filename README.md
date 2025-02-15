@@ -3,6 +3,9 @@
 ## Description
 This project sets up a data lake for NBA data using AWS services such as S3, Glue, and Athena. It fetches NBA player data from an external API, stores it in an S3 bucket, and uses Glue to create a database and table for querying the data with Athena.
 
+### Architecture diagram of NBA Data Lake Analytics
+![Alt text for the image](Datalake.drawio.png)
+
 ## Prerequisites
 1. Clone the repository:
     ```bash
